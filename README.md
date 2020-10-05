@@ -1,4 +1,4 @@
-# quikyy_mobile
+# template_mobile
 
 A new Flutter project.
 

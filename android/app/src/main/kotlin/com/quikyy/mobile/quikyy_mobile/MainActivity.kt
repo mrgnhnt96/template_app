@@ -1,4 +1,4 @@
-package com.quikyy.mobile.quikyy_mobile
+package com.template.mobile.template_mobile
 
 import io.flutter.embedding.android.FlutterActivity
 
